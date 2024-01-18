@@ -17,7 +17,7 @@ Server_Dir=$(cd $(dirname "${BASH_SOURCE[0]}") && pwd)
 Conf_Dir="$Server_Dir/conf"
 Temp_Dir="$Server_Dir/temp"
 Log_Dir="$Server_Dir/logs"
-URL='更改为你的clash订阅地址'
+URL='https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=ys1xqwvxcxv4loizhucjjisnhwso043o'
 
 # 临时取消环境变量
 unset http_proxy
